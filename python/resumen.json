@@ -1,0 +1,29 @@
+{
+  "tienda": "TechCórdoba",
+  "moneda": "EUR",
+  "numero_ventas": 40,
+  "ingreso_total": 44665,
+  "ingreso_por_categoria": {
+    "Audio": 2230,
+    "Informática": 41110,
+    "Accesorios": 1325
+  },
+  "unidades_por_producto": {
+    "Auriculares": 32,
+    "Monitor": 37,
+    "Teclado": 28,
+    "Portátil": 53,
+    "Ratón": 23,
+    "Altavoz": 9
+  },
+  "ingresos_por_mes": {
+    "2026-01": 11925,
+    "2026-02": 16245,
+    "2026-03": 760,
+    "2026-04": 4625,
+    "2026-05": 2530,
+    "2026-06": 8580
+  },
+  "producto_mas_vendido": "Portátil",
+  "mes_con_mas_ingresos": "2026-02"
+}

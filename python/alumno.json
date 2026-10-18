@@ -1,0 +1,11 @@
+{
+  "nombre": "Lucía",
+  "edad": 20,
+  "curso": "Ingeniería Informática",
+  "activo": true,
+  "asignaturas": ["Programación", "Cálculo", "Álgebra"],
+  "contacto": {
+    "email": "lucia@ejemplo.com",
+    "ciudad": "Córdoba"
+  }
+}
