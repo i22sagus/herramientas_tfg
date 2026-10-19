@@ -1,0 +1,366 @@
+{
+  "tienda": "TechCórdoba",
+  "moneda": "EUR",
+  "ventas": [
+    {
+      "id": 1,
+      "fecha": "2026-01-03",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 4,
+      "precio_unitario": 50,
+      "region": "Oeste"
+    },
+    {
+      "id": 2,
+      "fecha": "2026-01-04",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 8,
+      "precio_unitario": 180,
+      "region": "Oeste"
+    },
+    {
+      "id": 3,
+      "fecha": "2026-01-05",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 7,
+      "precio_unitario": 35,
+      "region": "Este"
+    },
+    {
+      "id": 4,
+      "fecha": "2026-01-08",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 1,
+      "precio_unitario": 50,
+      "region": "Oeste"
+    },
+    {
+      "id": 5,
+      "fecha": "2026-01-09",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 8,
+      "precio_unitario": 650,
+      "region": "Norte"
+    },
+    {
+      "id": 6,
+      "fecha": "2026-01-11",
+      "producto": "Ratón",
+      "categoria": "Accesorios",
+      "unidades": 1,
+      "precio_unitario": 15,
+      "region": "Norte"
+    },
+    {
+      "id": 7,
+      "fecha": "2026-01-12",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 1,
+      "precio_unitario": 50,
+      "region": "Sur"
+    },
+    {
+      "id": 8,
+      "fecha": "2026-01-14",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 7,
+      "precio_unitario": 650,
+      "region": "Norte"
+    },
+    {
+      "id": 9,
+      "fecha": "2026-01-18",
+      "producto": "Ratón",
+      "categoria": "Accesorios",
+      "unidades": 7,
+      "precio_unitario": 15,
+      "region": "Norte"
+    },
+    {
+      "id": 10,
+      "fecha": "2026-01-18",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 2,
+      "precio_unitario": 35,
+      "region": "Norte"
+    },
+    {
+      "id": 11,
+      "fecha": "2026-02-02",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 3,
+      "precio_unitario": 650,
+      "region": "Este"
+    },
+    {
+      "id": 12,
+      "fecha": "2026-02-03",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 4,
+      "precio_unitario": 650,
+      "region": "Oeste"
+    },
+    {
+      "id": 13,
+      "fecha": "2026-02-05",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 4,
+      "precio_unitario": 650,
+      "region": "Sur"
+    },
+    {
+      "id": 14,
+      "fecha": "2026-02-13",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 1,
+      "precio_unitario": 35,
+      "region": "Norte"
+    },
+    {
+      "id": 15,
+      "fecha": "2026-02-13",
+      "producto": "Altavoz",
+      "categoria": "Audio",
+      "unidades": 7,
+      "precio_unitario": 70,
+      "region": "Oeste"
+    },
+    {
+      "id": 16,
+      "fecha": "2026-02-15",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 7,
+      "precio_unitario": 650,
+      "region": "Este"
+    },
+    {
+      "id": 17,
+      "fecha": "2026-02-16",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 7,
+      "precio_unitario": 50,
+      "region": "Este"
+    },
+    {
+      "id": 18,
+      "fecha": "2026-02-18",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 2,
+      "precio_unitario": 180,
+      "region": "Este"
+    },
+    {
+      "id": 19,
+      "fecha": "2026-02-23",
+      "producto": "Ratón",
+      "categoria": "Accesorios",
+      "unidades": 4,
+      "precio_unitario": 15,
+      "region": "Norte"
+    },
+    {
+      "id": 20,
+      "fecha": "2026-02-25",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 5,
+      "precio_unitario": 650,
+      "region": "Sur"
+    },
+    {
+      "id": 21,
+      "fecha": "2026-03-06",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 2,
+      "precio_unitario": 180,
+      "region": "Oeste"
+    },
+    {
+      "id": 22,
+      "fecha": "2026-03-17",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 8,
+      "precio_unitario": 50,
+      "region": "Este"
+    },
+    {
+      "id": 23,
+      "fecha": "2026-04-02",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 2,
+      "precio_unitario": 180,
+      "region": "Este"
+    },
+    {
+      "id": 24,
+      "fecha": "2026-04-04",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 8,
+      "precio_unitario": 180,
+      "region": "Oeste"
+    },
+    {
+      "id": 25,
+      "fecha": "2026-04-06",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 6,
+      "precio_unitario": 50,
+      "region": "Sur"
+    },
+    {
+      "id": 26,
+      "fecha": "2026-04-10",
+      "producto": "Altavoz",
+      "categoria": "Audio",
+      "unidades": 2,
+      "precio_unitario": 70,
+      "region": "Norte"
+    },
+    {
+      "id": 27,
+      "fecha": "2026-04-10",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 2,
+      "precio_unitario": 180,
+      "region": "Sur"
+    },
+    {
+      "id": 28,
+      "fecha": "2026-04-27",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 3,
+      "precio_unitario": 650,
+      "region": "Este"
+    },
+    {
+      "id": 29,
+      "fecha": "2026-04-28",
+      "producto": "Ratón",
+      "categoria": "Accesorios",
+      "unidades": 5,
+      "precio_unitario": 15,
+      "region": "Oeste"
+    },
+    {
+      "id": 30,
+      "fecha": "2026-05-05",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 2,
+      "precio_unitario": 650,
+      "region": "Este"
+    },
+    {
+      "id": 31,
+      "fecha": "2026-05-11",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 3,
+      "precio_unitario": 50,
+      "region": "Norte"
+    },
+    {
+      "id": 32,
+      "fecha": "2026-05-15",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 6,
+      "precio_unitario": 180,
+      "region": "Este"
+    },
+    {
+      "id": 33,
+      "fecha": "2026-06-06",
+      "producto": "Auriculares",
+      "categoria": "Audio",
+      "unidades": 2,
+      "precio_unitario": 50,
+      "region": "Sur"
+    },
+    {
+      "id": 34,
+      "fecha": "2026-06-09",
+      "producto": "Ratón",
+      "categoria": "Accesorios",
+      "unidades": 6,
+      "precio_unitario": 15,
+      "region": "Este"
+    },
+    {
+      "id": 35,
+      "fecha": "2026-06-11",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 5,
+      "precio_unitario": 650,
+      "region": "Oeste"
+    },
+    {
+      "id": 36,
+      "fecha": "2026-06-12",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 8,
+      "precio_unitario": 35,
+      "region": "Oeste"
+    },
+    {
+      "id": 37,
+      "fecha": "2026-06-13",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 6,
+      "precio_unitario": 35,
+      "region": "Norte"
+    },
+    {
+      "id": 38,
+      "fecha": "2026-06-13",
+      "producto": "Teclado",
+      "categoria": "Accesorios",
+      "unidades": 4,
+      "precio_unitario": 35,
+      "region": "Sur"
+    },
+    {
+      "id": 39,
+      "fecha": "2026-06-23",
+      "producto": "Portátil",
+      "categoria": "Informática",
+      "unidades": 5,
+      "precio_unitario": 650,
+      "region": "Oeste"
+    },
+    {
+      "id": 40,
+      "fecha": "2026-06-26",
+      "producto": "Monitor",
+      "categoria": "Informática",
+      "unidades": 7,
+      "precio_unitario": 180,
+      "region": "Oeste"
+    }
+  ]
+}
